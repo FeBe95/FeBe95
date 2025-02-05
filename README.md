@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there, I am Felix 👋
 
-<!--
-**FeBe95/FeBe95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <!-- https://github.com/antonkomarev/github-profile-views-counter -->
+  <img alt="FeBe95's GitHub Profile Views" src="https://komarev.com/ghpvc/?username=FeBe95">
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  <!-- https://github.com/ryo-ma/github-profile-trophy -->
+  <img alt="FeBe95's GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=FeBe95&title=MultiLanguage,LongTimeUser,Commits,Issues,Experience&margin-w=15">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <img alt="FeBe95's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeBe95&layout=compact">
+</p>
+
+<p align="left">
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <img alt="FeBe95's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FeBe95&include_all_commits=true&rank_icon=github">
+</p>
