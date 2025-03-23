@@ -1,9 +1,4 @@
-## Hi there, I am Felix 👋
-
-<p align="left">
-  <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-  <img alt="FeBe95's GitHub Profile Views" src="https://komarev.com/ghpvc/?username=FeBe95">
-</p>
+## Hi there, I'm Felix 👋
 
 <p align="left">
   <!-- https://github.com/ryo-ma/github-profile-trophy -->
@@ -18,4 +13,9 @@
 <p align="left">
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <img alt="FeBe95's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FeBe95&include_all_commits=true&rank_icon=github">
+</p>
+
+<p align="right">
+  <!-- https://github.com/antonkomarev/github-profile-views-counter -->
+  <img src="https://komarev.com/ghpvc/?username=FeBe95&style=for-the-badge&color=13144A">
 </p>
